@@ -3,9 +3,3 @@
 
 ### 📫 Contact me
  - Email: nutaptap@gmail.com
-
-<h1 align="center">Hola 👋, soy Nuria!</h1>
-<h3 align="center">Me interesa el desarrollo web frontend.</h3>
-
-### 📫 Contacta conmigo
- - Email: nutaptap@gmail.com
